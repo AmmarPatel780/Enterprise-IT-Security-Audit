@@ -1,0 +1,16 @@
+# Private system audit data
+audit_results.json
+security_report.json
+audit_history.db
+*.db
+windows_events.csv
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.streamlit/secrets.toml
